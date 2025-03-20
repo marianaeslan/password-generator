@@ -1,20 +1,28 @@
 # 🔑 Password Generator  
 
-Um gerador de senhas simples e personalizável para aumentar a segurança das suas contas online.  
+A simple and efficient **Password Generator** built with **HTML, CSS, and JavaScript**. This tool helps users create strong, random passwords with customizable options to enhance security.  
+ 
+![Password Generator Preview](https://github.com/marianaeslan/password-generator/blob/main/password.png?raw=true)
 
-## 🚀 Funcionalidades  
-- 📐 Defina o comprimento da senha  
-- 🔡 Escolha entre letras maiúsculas, minúsculas, números e símbolos  
-- 🎲 Geração aleatória de senhas seguras  
+## 🚀 Features  
+✅ Generate **random and secure passwords** instantly.  
+✅ Customize password length.  
+✅ Include or exclude **uppercase letters, lowercase letters, numbers, and special characters**.  
+✅ Simple, **clean, and responsive interface**.  
+✅ Works directly in the browser—**no installation required**.  
 
-## 📦 Tecnologias Utilizadas  
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
+## 🛠️ Technologies   
+The project was built using:  
+- **HTML** - Structure of the application  
+- **CSS** - Styling and responsive layout  
+- **JavaScript** - Password generation logic 
 
 ## 📥 Como Usar  
-1. **Clone o repositório**  
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/marianaeslan/password-generator.git
-2.	**Abra o arquivo index.html no navegador**
-3.	**Ajuste as configurações e gere uma senha segura!**
+2.	**Navigate to the project directory**
+      ```bash
+      cd password-generator
+3. **Open index.html in your browser**
+4. **Select password options and generate a strong password!**
