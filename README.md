@@ -17,7 +17,7 @@ The project was built using:
 - **CSS** - Styling and responsive layout  
 - **JavaScript** - Password generation logic 
 
-## 📥 Como Usar  
+## 📥 How to use
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/marianaeslan/password-generator.git
